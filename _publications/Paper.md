@@ -6,7 +6,7 @@ excerpt: 'With an increase in low-cost machine learning APIs, advanced machine l
 date: 2021-03-12
 venue: 'IEEE Euro S&P 2021'
 paperurl: 'https://arxiv.org/abs/2103.07101'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Benjamin Zi Hao Zhao, Aviral Agrawal, Catisha Coburn, Hassan Jameel Asghar, Raghav Bhaskar, Mohamed Ali Kaafar, Darren Webb, Peter Dickinson'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
