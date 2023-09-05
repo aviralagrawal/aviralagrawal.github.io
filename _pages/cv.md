@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<!-- {% include base_path %}
+{% include base_path %}
 
 Education
 ======
@@ -36,8 +36,8 @@ Skills
 
 Publications
 ======
-  <ul>{% https://doi.org/10.48550/arXiv.2103.07101 %}
-    {% On the (In)Feasibility of Attribute Inference Attacks on Machine Learning Models, IEEE Euro S\&P 2021 %}
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
@@ -54,4 +54,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams -->
+* Currently signed in to 43 different slack teams
