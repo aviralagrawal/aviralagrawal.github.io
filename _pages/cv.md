@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * Summer 2023: Data Science Intern
-  * Raodie
+  * Roadie
   * Developing a robust probability model for the dynamic driver pricing system, enabling Roadie to estimate the probability of successful driver assignment based on various route and environmental characteristics.
   * Developing SQL queries to extract and manipulate relevant data from the company's databases to train different machine learning models
 
