@@ -1,45 +1,43 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /files/resume.pdf
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- {% include base_path %}
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelors in Computer Science, BITS Pilani KK Birla Goa Campus, 2020
+* Masters in Mathematics, BITS Pilani KK Birla Goa Campus, 2020
+* Masters in Computer Science, Georgia Institute of Technology, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2023: Data Science Intern
+  * Raodie
+  * Developing a robust probability model for the dynamic driver pricing system, enabling Roadie to estimate the probability of successful driver assignment based on various route and environmental characteristics.
+  * Developing SQL queries to extract and manipulate relevant data from the company's databases to train different machine learning models
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* July 2020 - August 2022: Software Engineer
+  * Microsoft
+  * Automated compliance checks during code deployment in Azure Devops
+  * Designing and integrating Attribute Based Access Control by making changes in the exchange powershell commandlets
+  * Built the frontend UI using ReactJs, Typescript etc. to allow company admins to manage attributes for their employees across the organization
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages: C, C++, C#, Java, Python, Typescript, SQL
+* Tools & Frameworks: HTML, CSS, React.js, LaTeX, Github, Numpy, Pandas, Pytorch, Tensorflow, Keras, Matplotlib, Android Studio
+* Relevant Coursework:Deep Learning, Computer Vision, Natural Language Processing, Machine Learning, Optimization, Data Mining, Web Search and Text Mining, Data Structure and Algorithms, Cryptography,Blockchain and Cryptocurrencies, Graph and Network
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
+  <ul>{% https://doi.org/10.48550/arXiv.2103.07101 %}
+    {% On the (In)Feasibility of Attribute Inference Attacks on Machine Learning Models, IEEE Euro S\&P 2021 %}
   {% endfor %}</ul>
   
 Talks
@@ -56,4 +54,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
